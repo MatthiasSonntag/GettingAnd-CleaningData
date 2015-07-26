@@ -6,10 +6,9 @@ output: html_document
 ---
 
 ## Project Description
-Short description of the project
-
 The aim of the project is to build a new dataset called Average from the dataset "Human Activity Recognition Using Smartphones Data Set" $^1$. The new dataset should consist only of the subjects the activities performed by the subjects an the averages of the measurements of the mean and the standard deviations. All variables of the dataset should have self-explaining names and the activity categories should be the descriptive ones provided in the original dataset. 
 
+The codebook templete is from Joris Schut$^2$.
 ##Study design and data processing
 
 ###Collection of the raw data 
